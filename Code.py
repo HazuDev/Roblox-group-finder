@@ -1,4 +1,3 @@
-from genericpath import isdir
 import sys, requests, threading, random, os
 from termcolor import colored
 
